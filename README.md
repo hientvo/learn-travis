@@ -483,7 +483,6 @@ travis --version
 <a name="going-further"></a>
 ## Going further
 
-This tutorial is meant to be only but a first contact with Travis and the world of CI.
 If you liked what have you seen so far, you can delve deeper into the following topics
 which will improve your understanding about CI overall, Travis and other tools that support Node.js.
 
